@@ -32,4 +32,6 @@ Frontend: Next.js
 Backend: .NET
 APIs: Notion API, Slack API, Google Calendar API
 
+# Architecture Diagram:
+
 ![Capture d'écran 2025-03-24 133229](https://github.com/user-attachments/assets/483d073b-82b8-4ea6-999b-228b1bda1d22)
