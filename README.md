@@ -4,16 +4,25 @@ A web app that automates meeting documentation, enhancing communication by elimi
 
 # Functionality:
 
-Transcription: Automatically transcribe spoken words from meetings into text.
-Summarization: Generate concise summaries of meeting content using AI.
-Integration: Seamlessly integrate with:
-Notion (for note storage and organization)
-Slack (for sharing summaries and notifications)
-Google Calendar (for scheduling and accessing meeting details)
-User Feedback: Allow users to review and provide feedback on generated notes and summaries.
-Advanced Search: Enable users to easily search through past meeting summaries.
-Calendar Sync: Synchronize meeting data with Google Calendar.
-Customizable Dashboard: Provide a personalized dashboard for viewing meeting summary history.
+Transcription: Automatically transcribe spoken words from meetings into text. <br /> 
+
+Summarization: Generate concise summaries of meeting content using AI.<br /> 
+
+Integration: Seamlessly integrate with:<br /> 
+
+Notion (for note storage and organization)<br /> 
+
+Slack (for sharing summaries and notifications)<br /> 
+
+Google Calendar (for scheduling and accessing meeting details)<br /> 
+
+User Feedback: Allow users to review and provide feedback on generated notes and summaries.<br /> 
+
+Advanced Search: Enable users to easily search through past meeting summaries.<br /> 
+
+Calendar Sync: Synchronize meeting data with Google Calendar.<br /> 
+
+Customizable Dashboard: Provide a personalized dashboard for viewing meeting summary history.<br /> 
 
 
 
